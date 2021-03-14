@@ -1,0 +1,23 @@
+body{
+  background-color: cadetblue;
+}
+
+h2{
+  text-align: center;
+}
+
+p{
+  color: white;
+  text-indent: 1.5em;
+  margin-top: 0;
+}
+
+.image{
+  text-align: center; 
+  height: 100px;
+   
+}
+
+.dimensao{
+  height: 400px;
+}
